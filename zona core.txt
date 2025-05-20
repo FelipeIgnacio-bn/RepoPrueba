@@ -1,0 +1,7 @@
+
+---------------------------------
+Router: Routera
+IP: 1.1.1.2
+Jerarquía: Núcleo
+Servicios: Enrutamiento
+---------------------------------
