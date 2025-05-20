@@ -1,0 +1,22 @@
+[
+    {
+        "TIPO": "💻 PC",
+        "NOMBRE": "PC-EMA",
+        "IP": "1.1.1.9",
+        "IP_TYPE": "IPv4",
+        "MÁSCARA": "255.0.0.0",
+        "CAPA": "📦 Distribución",
+        "SERVICIOS": "Ninguno",
+        "VLANS": []
+    },
+    {
+        "TIPO": "💻 PC",
+        "NOMBRE": "PC-NICO",
+        "IP": "1.1.1.10",
+        "IP_TYPE": "IPv4",
+        "MÁSCARA": "255.255.255.0",
+        "CAPA": "🚢 Transporte",
+        "SERVICIOS": "Ninguno",
+        "VLANS": []
+    }
+]

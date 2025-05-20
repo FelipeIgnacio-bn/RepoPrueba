@@ -1,0 +1,69 @@
+======================================================================
+INFORME DE DISPOSITIVOS DE RED
+======================================================================
+Fecha: 2025-05-20 01:13:36
+Total: 4
+----------------------------------------------------------------------
+
+Dispositivo #1
+------------------------------
+Tipo: 🖧 Servidor
+Nombre: ServerCP
+Ip: 1.1.1.6
+Ip type: IPv4
+Máscara: 255.0.0.0
+Capa: 📱 Aplicación
+Servicios: ✉️ Servicio de Correo 🌐 DHCP 🔍 DNS 🕸️ Servicio Web 🗃️ Base de Datos 🛡️ VPN
+Vlans:
+  - ID: 1, Nombre: VLAN_1
+  - ID: 2, Nombre: DATOS
+
+----------------------------------------------------------------------
+
+Dispositivo #2
+------------------------------
+Tipo: 🖧 Servidor
+Nombre: SERVERCP2
+Ip: 1.1.1.9
+Ip type: IPv4
+Máscara: 255.255.0.0
+Capa: 📱 Aplicación
+Servicios: 🔍 DNS
+Vlans:
+  - ID: 1, Nombre: VLAN_1
+  - ID: 2, Nombre: VLAN_2
+
+----------------------------------------------------------------------
+
+Dispositivo #3
+------------------------------
+Tipo: 🔀 Switch
+Nombre: switch
+Ip: 1.1.1.3
+Ip type: IPv4
+Máscara: 255.0.0.0
+Capa: 📦 Distribución
+Servicios: Ninguno
+Vlans:
+  - ID: 1, Nombre: VLAN_1
+  - ID: 2, Nombre: VLAN_2
+  - ID: 3, Nombre: VLAN_3
+
+----------------------------------------------------------------------
+
+Dispositivo #4
+------------------------------
+Tipo: 💻 PC
+Nombre: pcema
+Ip: 1.1.1.10
+Ip type: IPv4
+Máscara: 255.0.0.0
+Capa: 🌐 Red
+Servicios: Ninguno
+Vlans:
+  Ninguna
+
+----------------------------------------------------------------------
+
+FIN DEL INFORME
+======================================================================
